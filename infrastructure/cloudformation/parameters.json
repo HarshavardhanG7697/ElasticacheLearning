@@ -1,0 +1,10 @@
+[
+    {
+        "ParameterKey": "ProjectName",
+        "ParameterValue": "ElasticacheL3"
+    },
+    {
+        "ParameterKey": "EC2AMI",
+        "ParameterValue": "Latest Amazon Linux"
+    }
+]
